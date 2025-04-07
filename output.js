@@ -1,4 +1,4 @@
-//Wed Apr 02 2025 15:02:48 GMT+0000 (Coordinated Universal Time)
+//Mon Apr 07 2025 15:02:58 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("爱海盐");
